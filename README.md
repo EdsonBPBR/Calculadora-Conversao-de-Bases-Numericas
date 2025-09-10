@@ -1,5 +1,4 @@
 # Calculadora de Conversões de Bases Numéricas
-=============
 
 O presente software é um pequeno projeto desenvolvido na linguagem de programação Python3.10 da disciplina de Introdução Algoritmos e Programação de Computadores (APC)
 
